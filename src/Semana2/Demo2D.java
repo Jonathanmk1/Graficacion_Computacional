@@ -1,7 +1,6 @@
-package chapter1;
+package Semana2;
 
 import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
 import java.awt.font.*;
 import java.awt.geom.*;

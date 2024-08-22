@@ -1,3 +1,5 @@
+package Semana2;
+
 import java.awt.*;
 import javax.swing.*;
 import java.awt.geom.*;
